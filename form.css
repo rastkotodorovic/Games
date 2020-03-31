@@ -1,0 +1,89 @@
+body {
+    background-color: #f4f4f4;
+    color: #555;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.6em;
+    margin: 0;
+}
+.sve {
+    margin: auto;
+    overflow: hidden;
+}
+
+#pocetak {
+    color: #fff;
+    padding: 30px;
+    padding-right: 100px; 
+    text-align: center;
+    font-size: 30px;
+    background-image: url("https://images.unsplash.com/photo-1529753253655-470be9a42781?ixlib=rb-1.2.1&w=1000&q=80");  
+}
+
+#dugmad {
+    background-color: black;
+    padding: 20px;
+}
+#dugmad a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    margin-left: 40px;
+}
+#glavnoo{
+    padding: 100px;
+    padding-bottom: 180px;
+    background-image: url("https://www.wallpaperflare.com/static/644/305/118/pattern-black-gradient-texture-wallpaper.jpg");
+}
+#glavnoo input{
+    width: 400px;
+    height: 30px;
+    margin-bottom: 20px; 
+    margin-left: 510px;
+    border: none;
+    outline: none;
+    background: none;
+    color: white;
+    border-bottom: 1px solid #fff;
+    font-size: 17px;
+}
+#glavnoo textarea{
+    width: 400px;
+    height: 60px;
+    margin-left: 510px;
+    border: none;
+    outline: none;
+    background: none;
+    color: white;
+    border-bottom: 1px solid #fff;
+    font-size: 17px;
+    margin-bottom: 20px;
+}
+#glavnoo h1{
+    position: absolute;
+    top: 26%;
+    left:630px;
+    color: #fff;
+    font-size: 50px;
+    border-bottom: 6px solid;
+    padding-bottom: 13px;
+}
+#glavnoo button{
+    margin-left: 510px;
+    height: 40px;    
+    width: 400px;   
+    background: none; 
+    color: white;
+    font-size: 16px;
+}
+#kraj{
+    color: #fff;
+    background-color: black;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    text-align: center;
+}
+#pocetak a{
+    text-decoration: none;
+    color: white;
+}

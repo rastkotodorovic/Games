@@ -1,0 +1,67 @@
+body {
+    background-color: #f4f4f4;
+    color: #555;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.6em;
+    margin: 0;
+}
+.sve {
+    margin: auto;
+    overflow: hidden;
+}
+
+#pocetak {
+    color: #fff;
+    padding: 30px;
+    padding-right: 100px; 
+    text-align: center;
+    font-size: 30px;
+    background-image: url("https://images.unsplash.com/photo-1529753253655-470be9a42781?ixlib=rb-1.2.1&w=1000&q=80");  
+}
+
+#dugmad {
+    background-color: black;
+    padding: 20px;
+}
+#dugmad a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    margin-left: 40px;
+}
+#dugmad button{
+    text-decoration: none;
+    color: #000;
+    font-size: 20px;
+    margin-left: 40px;
+    margin-left: 1500px;
+}
+#glavno{
+    background-image: url("https://www.wallpaperflare.com/static/644/305/118/pattern-black-gradient-texture-wallpaper.jpg");
+    padding-top: 10px;
+    padding-left: 20%;
+    font-size: 24px;
+    align-items: center;
+    color: white;
+    padding-bottom: 50px;
+}
+#glavno a{
+    text-decoration: none;
+    color: white;
+}
+#glavno img{
+    height: 300px;
+    width: 600px;
+}
+#kraj{
+    color: #fff;
+    background-color: black;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    text-align: center;
+}
+#pocetak a{
+    text-decoration: none;
+    color: white;
+}

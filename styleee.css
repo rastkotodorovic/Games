@@ -1,0 +1,60 @@
+body {
+    background-color: #f4f4f4;
+    color: #555;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.6em;
+    margin: 0;
+}
+.sve {
+    margin: auto;
+    overflow: hidden;
+}
+
+#pocetak {
+    color: #fff;
+    padding: 30px;
+    padding-right: 100px; 
+    text-align: center;
+    font-size: 30px;
+    background-image: url("https://images.unsplash.com/photo-1529753253655-470be9a42781?ixlib=rb-1.2.1&w=1000&q=80");   
+}
+#dugmad {
+    background-color: black;
+    padding: 20px;
+}
+#dugmad a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    margin-left: 4;
+    text-decoration: none;
+    color: white;
+    margin-left: 40px;
+}
+#pocetak a{
+    text-decoration: none;
+    color: white;
+}
+#opis {
+    background-image: url("https://www.wallpaperflare.com/static/644/305/118/pattern-black-gradient-texture-wallpaper.jpg");
+    padding-top: 20px;
+    padding-bottom: 100px;
+    text-align: center;  
+    font-size: 20px;
+    color: white;   
+}
+#opis img{
+    width: 50%;
+}
+#opis h2{
+    font-size: 80px;
+    padding-right: 80px;
+}
+#kraj{
+    color: #fff;
+    background-color: black;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    text-align: center;
+}
